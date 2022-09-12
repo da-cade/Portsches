@@ -14,4 +14,4 @@ For the meantime, development of localized tools makes more sense:
 <!-- NOTE Models for jewelry should reflect their data structure in the Edge Invetory system to allow for future scaling -->
 [] jewelry models - handled by Edge?
 
-- [] Categories (array[str]), Name(int), price retail (dec), price current (dec), store locat`ion (int; mapped to front-end key), inStock (bool), quantity (int), vendorID (str), SKU (str), image(s) (str), notes? (str), tags (array[str])
+- [] Categories (array[str]), Name(int), price retail (dec), price current (dec), store location (int; mapped to front-end key), inStock (bool), quantity (int), vendorID (str), SKU (str), image(s) (str), notes? (str), tags (array[str])
