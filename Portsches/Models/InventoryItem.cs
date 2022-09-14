@@ -16,5 +16,6 @@ namespace Portsches.Models
 		public string Image { get; set; }
 		public string Notes { get; set; }
 		public List<string> Tags { get; set; }
+		public int Id { get; set; }
 	}
 }
