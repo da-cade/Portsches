@@ -2,7 +2,8 @@ using System;
 using System.Collections.Generic;
 using Portsches.Models;
 using Portsches.Repositories;
-
+//TODO implement admin privileges into the methods
+//TODO discuss what the primary key is for an inventory item
 namespace Portsches.Services
 {
 	public class InventoryItemsService
